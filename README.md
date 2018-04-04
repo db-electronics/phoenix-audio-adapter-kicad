@@ -11,5 +11,5 @@ MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
 conditions
 
-# SNES 8Mbit Cartridge
-A simple 8Mbit 5V Flash cartridge for the Super Nintendo. Compatible with the [Universal Mega Dumper](https://github.com/db-electronics/Universal-Mega-Dumper).
+# Phoenix Audio Adapter
+I didn't want to have a bunch of stripped wire connectors on my Extron Crosspoint 12x4 video switch so I decided to make this simple adapter which allows a stacked RCA stereo audio jack (Digikey# CP-1435-ND) to be interfaced to a standard 5pin 3.5mm Phoenix connector.
