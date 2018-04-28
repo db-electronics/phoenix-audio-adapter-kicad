@@ -16,3 +16,9 @@ I didn't want to have a bunch of stripped wire connectors on my Extron Crosspoin
 
 # Output Differences
 The Extron Audio output wiring is different than the input wiring. There are 2 PCBs in this project. Be sure to use the output PCB for your outputs!
+
+## Phoenix Adapter 
+This folder contains a PCB which connects L- and R-. You "can" use this PCB for all your needs, provided you cut the R- and L- traces for outputs. If you forget to cut the traces it's probably not a big deal since there is internal resistance (50 ohms or so) in line which each output. Obviously best if they are cut, but not catastrophic by any means.
+
+## Phoenix Adapter Output
+This folder contains a PCB which leaves L- and R- floating.
