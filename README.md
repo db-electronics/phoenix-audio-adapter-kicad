@@ -13,3 +13,6 @@ conditions
 
 # Phoenix Audio Adapter
 I didn't want to have a bunch of stripped wire connectors on my Extron Crosspoint 12x4 video switch so I decided to make this simple adapter which allows a stacked RCA stereo audio jack (Digikey# CP-1435-ND) to be interfaced to a standard 5pin 3.5mm Phoenix connector.
+
+# Output Differences
+The Extron Audio output wiring is different than the input wiring. There are 2 PCBs in this project. Be sure to use the output PCB for your outputs!
